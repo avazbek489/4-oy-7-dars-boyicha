@@ -24,15 +24,12 @@
 // }
 // alert("Eng katta son: " + max + "\nEng kichik son: " + min);
 // // 4-MASALA JAVOBI
-
-
-
-
-
-
-
-
+// let num = +prompt("Istalgan real son kiriting")
+// let up = Math.ceil(num)
+// let down = Math.floor(num)
+// alert("\nyaxlitlangan son" + up + "\nyaxlitlangan son" + down);
 // // 5-MASALA JAVOBI
+
 // // 6-MASALA JAVOBI
 // // 7-MASALA JAVOBI
 // // 8-MASALA JAVOBI
